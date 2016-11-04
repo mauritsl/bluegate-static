@@ -1,6 +1,10 @@
 BlueGate Static
 ==================
 
+[![Build Status](https://travis-ci.org/mauritsl/bluegate-static.svg?branch=master)](https://travis-ci.org/mauritsl/bluegate-static)
+[![Coverage Status](https://coveralls.io/repos/mauritsl/bluegate-static/badge.svg?branch=master)](https://coveralls.io/r/mauritsl/bluegate-static?branch=master)
+[![Dependency Status](https://david-dm.org/mauritsl/bluegate-static.svg)](https://david-dm.org/mauritsl/bluegate)
+
 Serve static assets in a [BlueGate](https://www.npmjs.com/package/bluegate) application.
 
 This module is intended for small amounts of files, such as CSS-files and images.
